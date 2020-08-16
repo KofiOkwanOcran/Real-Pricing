@@ -3,7 +3,7 @@
 # The Task
 About this data
 
-The dataset by sklearn on the Boston House Dataset is used here. ### The goal is to be able to make a price prediction of a house and to determine the factors on which the price depends.
+The dataset by sklearn on the Boston House Dataset is used here. The goal is to be able to make a price prediction of a house and to determine the factors on which the price depends.
 
 The dataset has the following column names:
 
@@ -20,3 +20,7 @@ The dataset has the following column names:
     DIS - Weighted distances to five Boston employment centres.
     RAD - Index of accessibility to radial highways.
     B - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town.
+
+# Findings
+At the end of performing a regressional analysis on the data, it was found that the following 5 predictors influence the changes in price given a threshold point of 0.4.
+They are; INDUS, RM, LSTAT, PTRATION, and Tax.
