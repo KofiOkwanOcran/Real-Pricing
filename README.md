@@ -32,4 +32,4 @@ PREDICTION:  26.93 // REAL:  24.4 // DIFFERENCE:  2.53
 PREDICTION:  12.43 // REAL:  5.0 // DIFFERENCE:  7.43
 PREDICTION:  15.97 // REAL:  13.4 // DIFFERENCE:  2.57
 
-Click here to view the project.[https://github.com/KofiOkwanOcran/Real-Pricing/blob/master/Real%20Pricing%20Assignment.ipynb]
+[Click here to view the project](https://github.com/KofiOkwanOcran/Real-Pricing/blob/master/Real%20Pricing%20Assignment.ipynb)
