@@ -23,4 +23,13 @@ The dataset has the following column names:
 
 # Findings
 At the end of performing a regressional analysis on the data, it was found that the following 5 predictors influence the changes in price given a threshold point of 0.4.
-They are; INDUS, RM, LSTAT, PTRATION, and Tax.
+They are; INDUS,NOX, RM, LSTAT, PTRATIO, and Tax.
+
+### Below are also the five samples predicted using the model.
+PREDICTION:  24.3 // REAL:  22.2 // DIFFERENCE:  2.1
+PREDICTION:  30.51 // REAL:  33.4 // DIFFERENCE:  -2.89
+PREDICTION:  26.93 // REAL:  24.4 // DIFFERENCE:  2.53
+PREDICTION:  12.43 // REAL:  5.0 // DIFFERENCE:  7.43
+PREDICTION:  15.97 // REAL:  13.4 // DIFFERENCE:  2.57
+
+Click here to view the project.[https://github.com/KofiOkwanOcran/Real-Pricing/blob/master/Real%20Pricing%20Assignment.ipynb]
